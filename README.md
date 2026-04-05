@@ -1,4 +1,4 @@
-# python-practice
+
 # 🐍 Python Basics Practice
 
 <p align="center">
