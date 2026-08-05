@@ -1,0 +1,10 @@
+Two Pointers
+
+Scenario:
+Look for problems where you need to iterate through the array using two pointers at the same time.
+The pointers usually start from two different positions (beginning–end or slow–fast).
+Used when comparing, pairing, or shrinking a range in the array.
+
+Clue:
+Problem mentions a sorted array, pair with target, compare both ends, remove duplicates, or find pairs/triplets.
+Keywords: sorted, two numbers, pair sum, left and right, fast and slow.
